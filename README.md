@@ -27,9 +27,8 @@ A simple reverse shell implementation in Python for educational and penetration 
 
 Using method with examle::::-
 
-Run on Server Side:
-$ Reverse_shell.py
-
-Run on Target Device(client Side):
+## Run on Server Side:
 $ Shell_server.py
 
+## Run on Target Side:
+$ Reverse_shell.py
