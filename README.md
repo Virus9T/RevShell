@@ -18,6 +18,7 @@ A simple reverse shell implementation in Python for educational and penetration 
 
 - Python 3.x
 - Works on Linux, macOS, and Windows (may require some permissions on target system)
+- pyinstaller (if need to convert into windows executable)
 
 ---
 
@@ -28,3 +29,10 @@ $ Shell_server.py
 
 ## Run on Target Side:
 $ Reverse_shell.py
+
+### Note
+
+if you want to make the rever shell in to windows executable(.exe) then use commans
+
+$ pip3 install pyinstaller
+$ pyinstaller --onefile Reverse_shell.py
