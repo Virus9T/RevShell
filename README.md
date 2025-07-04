@@ -1,4 +1,4 @@
-# 🐚 Python Reverse Shell
+### Python Reverse Shell
 
 A simple reverse shell implementation in Python for educational and penetration testing purposes. This tool consists of two scripts: a **client** (reverse shell) and a **server** (command listener), which enables remote command execution.
 
@@ -14,18 +14,14 @@ A simple reverse shell implementation in Python for educational and penetration 
 ---
 
 
-## 🛠 Requirements
+##  Requirements
 
 - Python 3.x
 - Works on Linux, macOS, and Windows (may require some permissions on target system)
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone this Repository
-
-Using method with examle::::-
+### Using method with examle:
 
 ## Run on Server Side:
 $ Shell_server.py
